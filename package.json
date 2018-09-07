@@ -1,0 +1,31 @@
+{
+  "name": "angular-preload-image",
+  "version": "1.0.0",
+  "description": "A simple AngularJS module to make it easy to pre-load images to prevent the horrible waterfall effect",
+  "main": "angular-preload-image.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobzmall-inc/angular-preload-image.git"
+  },
+  "keywords": [
+    "angular",
+    "preload",
+    "image",
+    "angular-preload-image"
+  ],
+  "author": "Alex Rayan, Logan Lehman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobzmall-inc/angular-preload-image/issues"
+  },
+  "homepage": "https://github.com/jobzmall-inc/angular-preload-image#readme",
+  "dependencies": {
+    "angular": "~1.3.10"
+  },
+  "devDependencies": {
+    "angular": "~1.3.10"
+  }
+}
